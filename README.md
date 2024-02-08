@@ -1,4 +1,4 @@
-# FaselHD Series Scarper
+# FaselHD Series Scraper
 This is a Python script for downloading TV series from FaselHD website. It automates the process of navigating through the website, selecting seasons and episodes, and downloading the video files.
 
 ## Requirements
