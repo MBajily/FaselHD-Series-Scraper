@@ -14,21 +14,21 @@ To use this script, you need to have the following libraries installed:
 
 
 ## Installation
-
-Clone the repository:
+<ol>
+<li>Clone the repository:</li>
 
 `git clone https://github.com/MBajily/FaselHD-Series-Scraper.git`
 <br>
 
-Navigate to the project directory:
+<li>Navigate to the project directory:</li>
 
 `cd FaselHD-Series-Scraper`
 <br>
 
-Install the required packages:
+<li>Install the required packages:</li>
 
 `pip install -r requirements.txt`
-
+</ol>
 
 ## Usage
 <ol>
